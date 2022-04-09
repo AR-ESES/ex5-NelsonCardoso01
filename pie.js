@@ -18,6 +18,7 @@ class Pie {
     fill(177,176,180,200);
     circle(0, 0, this.r * 2);   
     
+    
     //for (let i = 0; i < 9; i++) {
     let a = TWO_PI/9;
     let d = this.r * 2;
